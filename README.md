@@ -33,6 +33,12 @@ ReactChat is a robust and efficient real-time chat application designed with Rea
 - **Actions**: Defines actions for adding messages to the store.
 - **Reducers**: Updates the state based on actions dispatched.
 
+### Screenshot
+
+<img width="1899" alt="Screenshot 2024-06-07 at 2 49 59 PM" src="https://github.com/shuddha2021/ReactChat/assets/81951239/ba8327ed-1b8c-45ab-b30d-a56ac6ee70e7">
+
+<img width="1875" alt="Screenshot 2024-06-07 at 2 49 44 PM" src="https://github.com/shuddha2021/ReactChat/assets/81951239/31308b78-36f9-4683-bff2-074bc467f9d4">
+
 ## Project Structure
 
 ### Backend
